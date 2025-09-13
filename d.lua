@@ -43,5 +43,5 @@ while true do
     end
     
     -- Wait a short time before checking the position again to avoid performance issues
-    wait(0.5)
+    wait(1)
 end
